@@ -1,0 +1,15 @@
+{
+    "locale": "pt-BR",
+    "strings": {
+
+    "strings1": {
+        "tx1": "Bem-vindo ao GSP 1.0 da Central de Controle. \n\nClique na imagem do problema que você está visualizando no PI Vision para acessar a solução.",
+        "txSim": "Sim",
+        "txNao": "Não",
+        "tx2": "Esse erro acontece porque a receita não está cadastrada no sistema, ou o código da receita mudou. \nResponda a pergunta abaixo: \n\nA receita que está rodando no momento já existe no Plano de Controle e já rodou antes, porém com o código do produto diferente? \n\nClique em Sim ou Não",
+        "tx3": "Nesse caso basta atualizar o código do produto na tabela do Pi System Explorer, caso não saiba como fazer isso, clique no botão vermelho para acessar o portal e realize o treinamento da imagem abaixo",
+        "tx4": "Reiniciar o GSP",
+        "tx5": "Nesse caso é uma receita nova, você precisar criar ela no Plano de Controle e depois no sistema e, se não souber como fazer isso, acesse o portal clicando no botão abaixo e realize o treinamento: Como Criar Nova Receita"
+    }
+  }
+}
