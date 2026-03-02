@@ -1,15 +1,24 @@
 {
     "locale": "pt-BR",
     "strings": {
+       
+        "L1_C1": {
+               "tx1": "Bem vindo ao GSP 1.0.\n Toque na imagem do problema que você está enfrentando."
+        },
 
-    "strings1": {
-        "tx1": "Bem-vindo ao GSP 1.0 da Central de Controle. \n\nClique na imagem do problema que você está visualizando no PI Vision para acessar a solução.",
-        "txSim": "Sim",
-        "txNao": "Não",
-        "tx2": "Esse erro acontece porque a receita não está cadastrada no sistema, ou o código da receita mudou. \nResponda a pergunta abaixo: \n\nA receita que está rodando no momento já existe no Plano de Controle e já rodou antes, porém com o código do produto diferente? \n\nClique em Sim ou Não",
-        "tx3": "Nesse caso basta atualizar o código do produto na tabela do Pi System Explorer, caso não saiba como fazer isso, clique no botão vermelho para acessar o portal e realize o treinamento da imagem abaixo",
-        "tx4": "Reiniciar o GSP",
-        "tx5": "Nesse caso é uma receita nova, você precisar criar ela no Plano de Controle e depois no sistema e, se não souber como fazer isso, acesse o portal clicando no botão abaixo e realize o treinamento: Como Criar Nova Receita"
-    }
-  }
+        "erro_1": {
+            "tx1": "Esse erro acontece porque entrou um produto novo que não está cadastrado no sistema \n Responda a pergunta abaixo: \n\n O Produto que está rodando atualmente já existe no Plano de Controle porém com um código diferente?",
+
+            "txSim": "Sim",
+            "txNao": "Não",
+            "tx2": "Então basta atualizar o SKU da receita, se não souber ou lembrar como faz isso, acesse o portal de treinamento clicando no botão abaixo e realize o treinamento: Como Atualizar SKU de uma receita existente",
+            "tx3": "Nesse caso você precisar cria essa receita no plano de controle e no sisteme e depois cadastrar as variaveis de processo, se não souber ou não lembrar como fazer isso, acesse o portal de treinamento e realize o treinamento: Como Criar Nova Receita AFC ou Como Criar Nova Receita BCC"
+        },
+
+    "erro_2": {
+        "tx1": "Esse erro ocorre porque as variáveis de processo dessa receita ainda não foram cadastradas. Caso você não saiba ou não se lembre de como realizar esse procedimento, acesse o portal de treinamentos clicando no botão abaixo e faça o treinamento “Como cadastrar variáveis de processo”. "
+    }    
+
+ }
+
 }
